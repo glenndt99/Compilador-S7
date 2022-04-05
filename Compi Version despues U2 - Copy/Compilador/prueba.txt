@@ -1,0 +1,19 @@
+algoritmo pollote(): 
+errores
+3.5
+{escuela}
+'arbol'
+fin errores
+
+entero benito := 27
+	si benito <= 38
+	entonces
+	benito :=  28.23
+	fin_si
+	5-3
+	28.32 + 5
+not > or
+hacer < cadena
+test = tesla, mexico
+carro := 'Ford'
+adios

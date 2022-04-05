@@ -1,0 +1,8 @@
+algoritmo suma()
+a+b
+suma 1+2
+caracter abndas
+entonces
+{asdasd}
+asdasd
+entonces

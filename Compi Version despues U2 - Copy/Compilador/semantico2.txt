@@ -1,0 +1,29 @@
+algoritmo suma () es 
+    a: entero;
+    b: logico;
+    d: cadena;
+    e: entero;
+    f: cadena
+
+inicio    
+    a := 1+2;
+    b := verdadero;
+    f := 'Fin Programa buen dia';
+    d := 'Ingrese un numero mayor a 3';
+    escribir d;
+    leer e;
+    
+    mientras (b = verdadero) hacer     
+   
+        mientras ( a <= e ) hacer
+            a:= a + 1;
+            escribir a;
+        fin_mientras;
+        
+        si( e < a) entonces
+        b := falso;
+        fin_si;
+
+    fin_mientras; 
+    escribir f;
+fin

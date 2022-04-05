@@ -1,0 +1,9 @@
+algoritmo
+caracter
+ñ
+
+15.23
+{hola mundo}
+hola continente
+'cadena 5s'
+otra cadena

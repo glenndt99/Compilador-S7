@@ -1,0 +1,17 @@
+
+algoritmo suma () es 
+ 
+    a : entero ;     
+    b : decimal ; 
+    c : logico ;
+    d : cadena ; 
+    x : decimal
+
+inicio 
+    c := falso;
+    b := 51.50;
+    x := 6;
+    d := 'a' + '2';
+    a := 3;
+    escribir resultado1
+fin
