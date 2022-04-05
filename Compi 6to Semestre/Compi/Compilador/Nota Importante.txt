@@ -1,0 +1,6 @@
+Despeus de implementar lo semantico
+no es posible meter en comparacion relacional siendo "a" un valor logico.
+Con una linea asi:
+si ( a) entonces
+
+Truena todo el analisis y parece ser error sintactico y/o semantico.
